@@ -1,7 +1,6 @@
 import React from "react";
 
     const Hours = () => {
-        // add logic
 
         const shelterHours = [
             { day: "Monday", open: "10:00", close: "16:00" },
